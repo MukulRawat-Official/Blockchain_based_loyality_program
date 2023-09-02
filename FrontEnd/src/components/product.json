@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "title": "Denill Women White Solid Running Shoes",
+        "price": 109.95,
+        "description": "A pair of white solid comfort sandals Synthetic upper material Cushioned footbed Patterned PU outsole Warranty: 1 month Warranty provided by brand/manufacturer Material & Care Synthetic Wipe with a clean, dry cloth to remove the dust",
+        "category": "Women Footwear",
+        "image": "./assests/images/product1.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Mens Premium perfume",
+        "price": 22.3,
+        "description": "Unisex Oudh Mukhallat CP Concentrated Perfume 6ml Alcohol Free Attar",
+        "category": "men's grooming",
+        "image": "./assests/images/product2.png",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Apple Magsafe charger",
+        "price": 55.99,
+        "description": "The MagSafe Battery Pack can charge even faster when coupled with a 27W or higher charger, like those that ship with MacBook. And when you’re in need of a wireless charger, just plug in a Lightning cable for up to 15W of wireless charging.",
+        "category": "Electronics",
+        "image": "./assests/images/product3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Mens Casual jacket",
+        "price": 15.99,
+        "description": " felted fabric with lightly padded sleeves in a contrasting colour. Regular fit with press-studs down the front and welt front pockets",
+        "category": "men's clothing",
+        "image": "../assests/images/product4.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Oversized Men's Jacket",
+        "price": 695,
+        "description": "No Fear x H&M. Oversized, block-coloured jacket with a lightly brushed finish. Small, ribbed stand-up collar, press-studs down the front, a small appliqué at the top, welt front pockets and ribbing at the cuffs and hem. Lined.",
+        "category": "men's clothing",
+        "image": "../assests/images/product5.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Apple Watch ultra",
+        "price": 168,
+        "description": "100 m water resistant2 Swimproof and recreational diving to 40m2 EN13319 certification3 Depth gauge with water temperature sensor Certified IP6X dust resistant Tested to MIL-STD 810H4 Customisable Action button",
+        "category": "Electronics",
+        "image": "./assests/images/product6.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "iPhone 13",
+        "price": 9.99,
+        "description": "17.00 cm or 15.54 cm Super Retina XDR display footnote ProMotion technolog Always-On display",
+        "category": "electronics",
+        "image": "./assests/images/product7.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Back Cover",
+        "price": 10.99,
+        "description": "Seize for your phone, accessories that just click. Stride 2.0 Phone Case Cover can be one such accessory for you! ",
+        "category": "Acessories",
+        "image": "./assests/images/product8.png",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Oversized T-shirt",
+        "price": 64,
+        "description": "Pure cotten men's oversized t-shirt, wash with cold water.",
+        "category": "men's clothing",
+        "image": "./assests/images/product9.png",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Spiderman sneakers for Men",
+        "price": 109,
+        "description": "Comfortable and trending new cool sneakers for men.",
+        "category": "Footwear",
+        "image": "./assests/images/product10.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Funky cap",
+        "price": 109,
+        "description": "Add attitude with this cap to your look for those fashion-forward finishing touches.",
+        "category": "Hats and Caps",
+        "image": "./assests/images/product11.png",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "Backpack",
+        "price": 114,
+        "description": "Separate and organize your personal essentials, lunch, shoes, change of clothes, and laptop in this modern backpack. It's your perfect go-to backpack for work, school and travel",
+        "category": "Acessories",
+        "image": "./assests/images/product12.png",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    }
+   
+]
